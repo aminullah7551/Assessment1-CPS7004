@@ -10,4 +10,4 @@ class Config:
     alien_creation_probability = 0.01
     rock_creation_probability = 0.3
 
-    initial_num_rovers = 2
+    initial_num_rovers = 2        
